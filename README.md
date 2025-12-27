@@ -1,2 +1,3 @@
 # functioncall_project
-how to make and call functions in python 
+how to define and call functions in python 
+
