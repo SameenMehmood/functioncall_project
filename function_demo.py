@@ -11,7 +11,7 @@ def subt_numbers():
     a=4
     b=1
     print("remaining is:", a-b)
-# Function calls
+# Function calls 3
 greet()
 add_numbers()
 subt_numbers()
